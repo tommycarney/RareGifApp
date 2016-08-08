@@ -2,6 +2,8 @@
 
 Important information regarding the raregifcollector app!
 
+Implement search feature
+
 Things you may want to cover:
 
 * Ruby version
